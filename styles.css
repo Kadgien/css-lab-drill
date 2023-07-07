@@ -1,0 +1,130 @@
+body {
+    font-family: monospace;
+    background-color: grey;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 0.5em 0;
+    border-color: antiquewhite;
+    border-style: solid;
+    border-radius: 1em;
+    border-width: 0.5em;
+    width: 30em;
+    display: block;
+
+}
+
+.box1 {
+    background-color: orange;
+}
+
+.box2 {
+    background-color: orangered;
+
+}
+
+.box3 {
+    background-color: brown;
+}
+
+.box4 {
+    background-color: burlywood;
+}
+
+h2,
+p,
+.readme-wrapper {
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+}
+
+.original {
+    color: blueviolet;
+}
+
+.additional {
+    color: yellowgreen;
+}
+
+#show1 {
+    color: red;
+}
+
+#show2 {
+    color: orange;
+}
+
+#show3 {
+    color: yellow;
+}
+
+#show4 {
+    color: green;
+}
+
+#show5 {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    background-color: goldenrod;
+    font-weight: bolder;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+span1 {
+    color: red;
+    font-weight: 100;
+}
+
+span2 {
+    color: greenyellow;
+    font-weight: 900;
+}
+
+span3 {
+    color: lightcoral;
+    font-weight: 400;
+}
+
+span4 {
+    color: fuchsia;
+    font-weight: 750;
+}
+
+.images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: turquoise;
+    position: relative;
+    top: 15px;
+    left: 165px;
+}
+
+ul {
+    color: yellow;
+
+}
+
+.star {
+    color: orangered;
+}
+
+#wars {
+    color: white;
+}
+
+.list-border {
+    border: 2px solid black;
+}
